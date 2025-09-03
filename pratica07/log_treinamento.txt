@@ -1,0 +1,6 @@
+Iniciando treinamento...
+Execução: 1, Tempo: 12.5s
+Execução: 2, Tempo: 14.2s
+Execução: 3, Tempo: 13.1s
+Execução: 4, Tempo: 15.0s
+Treinamento concluído.
